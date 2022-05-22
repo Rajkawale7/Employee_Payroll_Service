@@ -1,0 +1,3 @@
+id=1, name='Raj', salary=50000.0
+id=2, name='David', salary=55000.0
+id=3, name='Sam', salary=60000.0
